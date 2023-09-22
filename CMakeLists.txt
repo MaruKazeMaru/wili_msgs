@@ -17,6 +17,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   #"srv/.srv"
   "msg/HMM.msg"
   "srv/GetHMM.srv"
+  "srv/GetSuggest.srv"
 )
 
 if(BUILD_TESTING)
