@@ -16,6 +16,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   #"msg/.msg"
   #"srv/.srv"
   "msg/HMM.msg"
+  "msg/Where.msg"
   "srv/GetHMM.srv"
   "srv/GetSuggest.srv"
 )
