@@ -1,3 +1,3 @@
-float64 x
-float64 y
+float32 x
+float32 y
 #uint8 floor
