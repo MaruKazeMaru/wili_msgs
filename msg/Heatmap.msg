@@ -1,2 +1,2 @@
-Gaussian2d gaussian
+Gaussian gaussian
 # float32[] floor
