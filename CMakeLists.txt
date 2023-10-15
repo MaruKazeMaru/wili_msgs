@@ -19,6 +19,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Where.msg"
   "msg/Gaussian.msg"
   "msg/Heatmap.msg"
+  "msg/Observation.msg"
   "srv/GetHMM.srv"
   "srv/Suggest.srv"
 )
